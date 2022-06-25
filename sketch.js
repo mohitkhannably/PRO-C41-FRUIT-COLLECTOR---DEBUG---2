@@ -48,7 +48,8 @@ function draw() {
      game.play();
    }
    if (gameState === 2) {
-    
+    http://127.0.0.1:8887
+//http://192.168.1.10:8887
      game.end();
    }
 }
